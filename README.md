@@ -1,3 +1,4 @@
+HEAD
 # Revolut Transaction Analytics (Simulated Data Project) 💳
 
 **Goal:** Analyze simulated Revolut-style transaction data using SQL and Python to identify user behavior patterns and detect anomalies in spending.
